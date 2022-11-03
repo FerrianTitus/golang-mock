@@ -1,4 +1,4 @@
-module golang-mock
+module github.com/ferriantitus/golang-mock
 
 go 1.17
 
